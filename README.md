@@ -1,4 +1,4 @@
-# Lc Waikiki Test Automation
+# LC Waikiki Test Automation
 
 
 ### Test
