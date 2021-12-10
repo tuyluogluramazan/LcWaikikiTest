@@ -1,7 +1,7 @@
 # Lc Waikiki Test Automation
 
 
-### Case-1 Change The Adress
+### Test
 
 🟢https://www.lcwaikiki.com/tr-TR/TR sitesi açılır.
 
